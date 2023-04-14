@@ -8,11 +8,11 @@ O objetivo deste chapter é implementar uma API RESTful em Node.js e TypeScript 
 Tópicos abordados
 Durante este chapter, serão abordados os seguintes tópicos:
 
-`Criação de rotas HTTP`
-`Criação de endpoints RESTful`
-`Utilização de middlewares`
-`Manipulação de dados com arrays`
-`Como executar o código`
+- Criação de rotas HTTP
+- Criação de endpoints RESTful
+- Utilização de middlewares
+- Manipulação de dados com arrays
+- Como executar o código
 
 Para executar o código desenvolvido durante este chapter, siga as instruções abaixo:
 
