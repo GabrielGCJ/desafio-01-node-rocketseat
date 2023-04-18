@@ -36,6 +36,8 @@ http://localhost:3333
 
 ### Para testar as utilidades da API é importante o uso de uma aplicação de API Client como Postman ou Insomnia.
 
+![image](https://user-images.githubusercontent.com/91347602/232907354-81bfa735-8b77-45b0-a624-9964122a11bc.png)
+
 https://www.postman.com/downloads/
 
 https://insomnia.rest/download
