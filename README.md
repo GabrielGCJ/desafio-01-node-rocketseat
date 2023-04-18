@@ -44,6 +44,8 @@ https://www.postman.com/downloads/
 
 https://insomnia.rest/download
 
+<h3 class="align-center">Seu texto aqui</h3>
+
 ---
 
 A API implementada durante este chapter possui os seguintes endpoints:
