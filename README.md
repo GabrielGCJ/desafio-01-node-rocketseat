@@ -44,8 +44,8 @@ https://insomnia.rest/download
 
 A API implementada durante este chapter possui os seguintes endpoints:
 
-- GET `/tasks` lista todas as tarefas cadastradas
-- GET `/tasks/:id` retorna os detalhes de uma tarefa específica
-- POST `/tasks` cria uma nova tarefa
-- PUT `/tasks/:id` atualiza uma tarefa existente
-- DELETE `/tasks/:id` exclui uma tarefa existente
+- GET `/tasks`: lista todas as tarefas cadastradas
+- GET `/tasks/:id`: retorna os detalhes de uma tarefa específica
+- POST `/tasks`: cria uma nova tarefa
+- PUT `/tasks/:id`: atualiza uma tarefa existente
+- DELETE `/tasks/:id`: exclui uma tarefa existente
