@@ -38,17 +38,9 @@ http://localhost:3333
 
 ![image](https://user-images.githubusercontent.com/91347602/232907354-81bfa735-8b77-45b0-a624-9964122a11bc.png)
 
-https://www.postman.com/downloads/
+## https://www.postman.com/downloads/
 
-https://insomnia.rest/download
-<center>
-
-[Este é um texto de exemplo para demonstrar como centralizar um texto em um README.md.](https://www.postman.com/downloads/
-
-https://insomnia.rest/download
-<center>)
-
-</center>
+## https://insomnia.rest/download
 
 ---
 <center><h3>Seu texto centralizado aqui</h3></center>
