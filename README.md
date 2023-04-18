@@ -32,6 +32,16 @@ Acesse o endereço localhost porta 3333 em seu navegador ou ferramenta de testes
 
 http://localhost:3333
 
+---
+
+### Para testar as utilidades da API é importante o uso de uma aplicação de API Client como Postman ou Insomnia.
+
+https://www.postman.com/downloads/
+
+https://insomnia.rest/download
+
+---
+
 A API implementada durante este chapter possui os seguintes endpoints:
 
 - GET /tasks: lista todas as tarefas cadastradas
