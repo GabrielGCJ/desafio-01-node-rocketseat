@@ -38,7 +38,7 @@ http://localhost:3333
 
 ![image](https://user-images.githubusercontent.com/91347602/232907354-81bfa735-8b77-45b0-a624-9964122a11bc.png)
 
-<h3 align-items: center; >https://www.postman.com/downloads/    https://www.postman.com/downloads/</h3>
+<h3 align-items: "center" >https://www.postman.com/downloads/    https://www.postman.com/downloads/</h3>
 
 https://www.postman.com/downloads/
 
