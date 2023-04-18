@@ -8,6 +8,8 @@ Objetivo:
 
 - O objetivo deste chapter é implementar uma API RESTful em Node.js e TypeScript para gerenciamento de tarefas (to-do list).
 
+---
+
 ### Para rodar o projeto:
 
 Clone este repositório em sua máquina:
