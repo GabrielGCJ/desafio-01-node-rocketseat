@@ -8,21 +8,25 @@ Objetivo:
 
 - O objetivo deste chapter é implementar uma API RESTful em Node.js e TypeScript para gerenciamento de tarefas (to-do list).
 
-Durante este chapter, serão abordados os seguintes tópicos:
+### Para rodar o projeto:
 
-- Criação de rotas HTTP
-- Criação de endpoints RESTful
-- Utilização de middlewares
-- Manipulação de dados com arrays
-- Como executar o código
+Clone este repositório em sua máquina:
 
-Para executar o código desenvolvido durante este chapter, siga as instruções abaixo:
+`https://github.com/GabrielGCJ/Desafio-1-.git`
 
-- Clone este repositório em sua máquina local.
-- Abra o terminal na pasta do projeto.
-- Execute o comando `yarn install` para instalar as dependências do projeto.
-- Execute o comando `yarn dev` para iniciar o servidor de desenvolvimento.
-- Acesse o endereço http://localhost:3333 em seu navegador ou ferramenta de testes para interagir com a API.
+Entre na pasta do projeto:
+
+Instale o projeto:
+
+`yarn install`
+
+Rode o projeto:
+
+`yarn dev`
+
+Acesse o endereço localhost porta 3333 em seu navegador ou ferramenta de testes para interagir com a API:
+
+`http://localhost:3333`
 
 A API implementada durante este chapter possui os seguintes endpoints:
 
