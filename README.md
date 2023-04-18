@@ -1,4 +1,4 @@
-# Desafio-1- Rocket Ignite - Desafio 01: Chapter I
+# Desafio 1 (Desafio 01: Chapter I)
 
 ![image](https://user-images.githubusercontent.com/91347602/232902040-1eb12147-f163-4dd8-bf03-0d2cd96cefb7.png)
 
