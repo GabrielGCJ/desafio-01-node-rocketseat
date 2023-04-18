@@ -14,7 +14,7 @@ Objetivo:
 
 Clone este repositório em sua máquina:
 
-`https://github.com/GabrielGCJ/Desafio-1-.git`
+`git clone https://github.com/GabrielGCJ/Desafio-1-.git`
 
 Entre na pasta do projeto:
 
