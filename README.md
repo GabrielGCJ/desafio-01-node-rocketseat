@@ -14,9 +14,11 @@ Objetivo:
 
 Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/Desafio-1-.git`
+`git clone https://github.com/GabrielGCJ/desafio-1-rocketseat.git`
 
 Entre na pasta do projeto:
+
+`cd desafio-1-rocketseat`
 
 Instale o projeto:
 
