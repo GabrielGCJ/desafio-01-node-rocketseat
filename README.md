@@ -52,20 +52,20 @@ Cada endpont é representado deve enviar um conjunto de parametros para funciona
 
 ---
 
-### 1 - POST - Cadastro de usuario:
+######  1 - POST - Cadastro de usuario:
 http://localhost:3333/users
 
-### 2 - GET - Todas as tarefas:
+######  2 - GET - Todas as tarefas:
 http://localhost:3333/todos
 
-### 3 - POST - Adicionar tarefa:
+######  3 - POST - Adicionar tarefa:
 http://localhost:3333/todos
 
-### 4 - PUT - Editar tarefa:
+######  4 - PUT - Editar tarefa:
 http://localhost:3333/todos/ (ID DA TAREFA)
 
-### 5 - PATCH - Alterar tarefa como feita:
+######  5 - PATCH - Alterar tarefa como feita:
 http://localhost:3333/todos/ (ID DA TAREFA)
 
-### 6 - DELETE - Deletar tafera:
+######  6 - DELETE - Deletar tafera:
 http://localhost:3333/todos/ (ID DA TAREFA)
