@@ -51,3 +51,21 @@ A API implementada durante este chapter possui os seguintes endpoints:
 Cada endpont é representado deve enviar um conjunto de parametros para funcionar corretamente.
 
 ---
+
+### 1 - POST - Cadastro de usuario:
+http://localhost:3333/users
+
+### 2 - GET - Todas as tarefas:
+http://localhost:3333/todos
+
+### 3 - POST - Adicionar tarefa:
+http://localhost:3333/todos
+
+### 4 - PUT - Editar tarefa:
+http://localhost:3333/todos/(ID DA TAREFA)
+
+### 5 - PATCH - Alterar tarefa como feita:
+http://localhost:3333/todos/(ID DA TAREFA)
+
+### 6 - DELETE - Deletar tafera:
+http://localhost:3333/todos/(ID DA TAREFA)
