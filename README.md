@@ -44,11 +44,29 @@ http://localhost:3333
 ### https://insomnia.rest/download
 
 ---
-<center><h3>Seu texto centralizado aqui</h3></center>
 A API implementada durante este chapter possui os seguintes endpoints:
 
-- GET `/tasks`: lista todas as tarefas cadastradas
-- GET `/tasks/:id`: retorna os detalhes de uma tarefa específica
-- POST `/tasks`: cria uma nova tarefa
-- PUT `/tasks/:id`: atualiza uma tarefa existente
-- DELETE `/tasks/:id`: exclui uma tarefa existente
+![image](https://user-images.githubusercontent.com/91347602/233130037-144c6352-b522-4e07-8566-c2f9f7c8e6ba.png)
+
+Cada endpont é representado deve enviar um conjunto de parametros para funcionar corretamente.
+
+---
+
+### 1 - POST - Cadastro de Usuario - Deve enviar em seu json 2 paramentros:
+
+- name
+- username
+
+![image](https://user-images.githubusercontent.com/91347602/233131667-d7ca478f-046d-4ea2-9fb2-f9404f0f2cc6.png)
+
+Seu retorno deve apresentar um 201 da seguinte forma:
+
+![image](https://user-images.githubusercontent.com/91347602/233133044-a9df73cb-5b79-47d9-990d-bf9d35c12962.png)
+
+---
+
+### 1 - GET - Tarefas - Deve enviar em seu Headers um paramentro com um username cadastrado:
+
+
+
+
