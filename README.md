@@ -62,10 +62,10 @@ http://localhost:3333/todos
 http://localhost:3333/todos
 
 ### 4 - PUT - Editar tarefa:
-http://localhost:3333/todos/(ID DA TAREFA)
+http://localhost:3333/todos/ (ID DA TAREFA)
 
 ### 5 - PATCH - Alterar tarefa como feita:
-http://localhost:3333/todos/(ID DA TAREFA)
+http://localhost:3333/todos/ (ID DA TAREFA)
 
 ### 6 - DELETE - Deletar tafera:
-http://localhost:3333/todos/(ID DA TAREFA)
+http://localhost:3333/todos/ (ID DA TAREFA)
