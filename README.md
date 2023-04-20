@@ -5,8 +5,8 @@ Este é o primeiro chapter do Desafio 01 da Rocket Ignite, um programa de capaci
 
 ### Objetivos:
 
-# Nesse desafio, o objetivo foi criar uma aplicação para treinamento de conceitos de Node.js!
-# A aplicação tem por finalidade gerenciar tarefas (em inglês *todos*)
+#### Nesse desafio, o objetivo foi criar uma aplicação para treinamento de conceitos de Node.js!
+#### A aplicação tem por finalidade gerenciar tarefas (em inglês *todos*)
 
 - Criação de um usuário com `name` e `username`.
 - Criar um novo *todo*;
