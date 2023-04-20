@@ -3,11 +3,19 @@ Este é o primeiro chapter do Desafio 01 da Rocket Ignite, um programa de capaci
 
 ![image](https://user-images.githubusercontent.com/91347602/232902040-1eb12147-f163-4dd8-bf03-0d2cd96cefb7.png)
 
+### Objetivos:
 
+#Nesse desafio, o objetivo foi criar uma aplicação para treinamento de conceitos de Node.js!
+#A aplicação tem por finalidade gerenciar tarefas (em inglês *todos*)
 
-### Objetivo:
+- Criação de um usuário com `name` e `username`.
+- Criar um novo *todo*;
+- Listar todos os *todos*;
+- Alterar o `title` e `deadline` de um *todo* existente;
+- Marcar um *todo* como feito;
+- Excluir um *todo*;
 
-- O objetivo deste chapter é implementar uma API RESTful em Node.js e TypeScript para gerenciamento de tarefas (to-do list).
+Tudo isso para cada usuário em específico (o `username` será passado pelo header)
 
 ---
 
