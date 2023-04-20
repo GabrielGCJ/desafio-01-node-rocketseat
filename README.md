@@ -1,4 +1,4 @@
-# Desafio 01: Chapter I
+# Desafio 01: Chapter I - Conceitos do Node.js
 Este é o primeiro chapter no desafio 01 da Rocket Ignite, um programa de capacitação intensiva em desenvolvimento de software.
 
 ![image](https://user-images.githubusercontent.com/91347602/232902040-1eb12147-f163-4dd8-bf03-0d2cd96cefb7.png)
