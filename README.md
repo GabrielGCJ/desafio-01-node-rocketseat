@@ -24,11 +24,11 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 
 Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/desafio-1-rocketseat.git`
+`git clone https://github.com/GabrielGCJ/desafio-01-node-rocketseat.git`
 
 Entre na pasta do projeto:
 
-`cd desafio-1-rocketseat`
+`cd desafio-01-node-rocketseat`
 
 Instale o projeto:
 
